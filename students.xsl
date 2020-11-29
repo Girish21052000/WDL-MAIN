@@ -5,6 +5,9 @@ xmlns:xsl = "http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match = "/">
 <html>
+ <head>
+  <title>XML</title>
+ </head>
 <body>
 <h2>* LOKMANYA TILAK COLLEGE OF ENGINEERING *</h2>
 <h2>* STUDENTS MARKSHEET *</h2>
